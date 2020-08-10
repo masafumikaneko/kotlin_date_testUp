@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SimpleTODO</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_edit">Edit</string>
+
+    <string name="title_activity_detail">Detail</string>
+
+    <!-- menuのタイトル -->
+
+
+    <string name="sort">Sort</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="edit">Edit</string>
+
+    <string name="register">Register</string>
+
+    <string name="about">About this App</string>
+
+    <!-- task detail-->
+
+
+    <string name="deadline">DeadLine</string>
+
+    <string name="task_detail">Task Detail</string>
+
+    <string name="check_if_completed">Completed</string>
+
+
+    <!-- task edit-->
+
+
+    <string name="title">Title</string>
+
+    <string name="todo_detail">TODO Detail</string>
+
+    <string name="error">"Title" and "DeadLine" are both required.</string>
+
+    <!--about this app -->
+
+
+    <string name="about_this_app">This app is simplest to-do management tool.</string>
+
+</resources>

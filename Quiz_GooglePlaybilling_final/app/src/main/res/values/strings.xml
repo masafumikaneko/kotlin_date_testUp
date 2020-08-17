@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">課金クイズ</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <!--Viewのテキスト-->
+    <string name="seikai_ha"><u>正解は</u></string>
+
+    <!-- fab_soundを押したときのSnackBarに表示されるメッセージ-->
+    <string name="finish_quiz">クイズを終了します</string>
+    <string name="finish">終了</string>
+    <string name="cancel">キャンセル</string>
+
+    <!--Toastメッセージ TODO Google Play Billing導入に伴って再設定-->
+    <string name="import_success">データの取り込みに成功しました。</string>
+    <string name="import_fail">データの取り込みに失敗しました。</string>
+    <string name="import_fail_notice">データの取り込み中です。しばらくお待ち下さい。</string>
+    
+    <string name="press_cancel">処理がキャンセルされました。</string>
+    <string name="item_already_owned">このアイテムはすでに購入済みです。</string>
+    <string name="error_occurred">エラーが発生しました。再度やり直して下さい。</string>
+    <string name="purchased">購入が完了しました。</string>
+    <string name="consumed">問題数を３問減らしました。</string>
+    
+
+    <!--AlertDialog -->
+    <!--strings.xmlで複雑な文字列の表示 http://y-anz-m.blogspot.jp/2011/03/android-xml.html-->
+    <string name="alert_go_test_title">クイズの開始</string>
+    <string name="alert_go_test_message">クイズをはじめます。３問間違えると不合格です。はじめてよろしいですか？</string>
+
+
+    <!--Admob広告ID IDの追加要-->
+    <string name="application_id_admob">ca-app-pub-5244464205108027~7318382432</string><!--アプリケーションID-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string><!--バナー広告-->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string><!--全画面広告-->
+
+   
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922058172056",
+    "firebase_url": "https://inappbillingquiz.firebaseio.com",
+    "project_id": "inappbillingquiz",
+    "storage_bucket": "inappbillingquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922058172056:android:6c8f8ae2c5ec6d90",
+        "android_client_info": {
+          "package_name": "net.minpro.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922058172056-tmpj66dlqf7o936ncf7q0u2oaefm409l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.minpro.quiz",
+            "certificate_hash": "8d6fb4d8dae9e2a50e6482ca5668d11cb0312eae"
+          }
+        },
+        {
+          "client_id": "922058172056-9hgejgf451vcl4s4kg8u2s3ej415e8kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCDaz7gJpUSslK0Ou2WsbTlHt7TskrwHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922058172056-9hgejgf451vcl4s4kg8u2s3ej415e8kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
